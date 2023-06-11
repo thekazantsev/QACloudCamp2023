@@ -1,5 +1,5 @@
 # Тестовое задание для поступления в QACloudCamp
-___
+
 ## Project Setup
 #### 1. Clone the repository 
 ```
@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 pytest
 ```
-___
+
 ## Running the Tests with Docker
 #### 1. Build Docker image
 ```
@@ -23,7 +23,7 @@ docker build -t myapp .
 ```
 docker run myapp     
 ```
-___
+
 
 
 ## Follow the Dream
