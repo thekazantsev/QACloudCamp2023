@@ -26,6 +26,3 @@ docker run myapp
 
 
 
-## Follow the Dream
-
-* [QACloudCamp](https://cloud.ru/ru/career/qacloudcamp)
