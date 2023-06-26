@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 ### Running the Tests
 ```
-pytest tests -v
+pytest -v
 ```
 
 ## Running the Tests with Docker
